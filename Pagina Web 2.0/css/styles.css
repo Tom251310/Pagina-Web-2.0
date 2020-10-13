@@ -1,0 +1,36 @@
+.nav-enlace{
+    display: inline-block;
+    background:white;
+    color: rgb(114, 39, 39);
+    padding: 10px 30px;
+    text-decoration: none;
+    
+    }
+    .nav-enlace:hover {
+        background: gray;
+    }
+    nav{
+        Background: red;
+        padding: 10px;
+        display: flex;
+        justify-content: flex-start;
+    }
+    .nav-button {
+        background:white;
+        color: rgb(114, 39, 39);
+        padding: 10px 30px;
+        border: 2px solid white;
+    }
+    .desaparece {
+        display: none;
+    }
+    h1{
+        color: red;
+        margin: 20px 50px 50px 250px ;
+    }
+    head{
+        background-color: rgb(171, 181, 201);
+    }
+    body{
+        background-color: rgb(171, 181, 201);
+    }
